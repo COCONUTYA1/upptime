@@ -40,7 +40,7 @@
     "url": "https://www.liukai.asia",
     "icon": "https://icons.duckduckgo.com/ip3/www.liukai.asia.ico",
     "slug": "apricity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1489,
     "timeMonth": 1543,
     "timeYear": 1545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-18": 0
+    }
   }
 ]
