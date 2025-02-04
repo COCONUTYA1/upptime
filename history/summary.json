@@ -10,11 +10,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 95,
-    "timeWeek": 121,
-    "timeMonth": 110,
-    "timeYear": 109,
+    "time": 112,
+    "timeDay": 378,
+    "timeWeek": 155,
+    "timeMonth": 119,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2025-01-29": 23
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 44,
-    "timeWeek": 159,
-    "timeMonth": 201,
+    "timeDay": 176,
+    "timeWeek": 156,
+    "timeMonth": 199,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liukai.asia.ico",
     "slug": "apricity",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1510,
-    "timeDay": 1154,
-    "timeWeek": 1363,
-    "timeMonth": 1441,
-    "timeYear": 1510,
+    "uptimeYear": "99.99%",
+    "time": 1508,
+    "timeDay": 1314,
+    "timeWeek": 1339,
+    "timeMonth": 1436,
+    "timeYear": 1508,
     "dailyMinutesDown": {
       "2024-12-18": 17
     }
